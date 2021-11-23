@@ -49,7 +49,7 @@ def findUsers(utente,type):
         if(type==Type.followers):
             item = tweepy.Cursor(api.followers, screen_name=utente, skip_status=True, include_user_entities=False).items(1).next()
         elif(type==Type.following):
-            item = tweepy.Cursor(api.followers, screen_name=utente, skip_status=True, include_user_entities=False).items(1).next()
+            item = tweepy.Cursor(api.friends, screen_name=utente, skip_status=True, include_user_entities=False).items(1).next()
 
         json_data = item._json
 
