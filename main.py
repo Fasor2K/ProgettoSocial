@@ -46,10 +46,13 @@ def findUsers(utente,type):
     users = []
 
     while len(users) < 5:
+        print("Ciclo")
         if(type==Type.followers):
-            item = tweepy.Cursor(api.followers, screen_name=utente, skip_status=True, include_user_entities=False).items(1).next()
+            print("Followers")
+            item = tweepy.Cursor(api.followers, screen_name=utente, skip_status=True, include_user_entities=False).items().next()
         elif(type==Type.following):
-            item = tweepy.Cursor(api.friends, screen_name=utente, skip_status=True, include_user_entities=False).items(1).next()
+            print("Following")
+            item = tweepy.Cursor(api.friends, screen_name=utente, skip_status=True, include_user_entities=False).items().next()
 
         json_data = item._json
 
