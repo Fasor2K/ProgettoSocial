@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1462161558734348304,
+        "name": "Gaetano Salierno",
+        "screen_name": "GaetanoSaliern1",
+        "location": "",
+        "followers_count": 0,
+        "friends_count": 12,
+        "protected": false
+    },
+    {
+        "id": 1457435023997558789,
+        "name": "Marco Sette",
+        "screen_name": "MarcoSette9",
+        "location": "",
+        "followers_count": 9,
+        "friends_count": 152,
+        "protected": false
+    },
+    {
+        "id": 1445136663982845959,
+        "name": "Massimiliano Pezzella",
+        "screen_name": "Massimi04971632",
+        "location": "",
+        "followers_count": 6,
+        "friends_count": 67,
+        "protected": false
+    },
+    {
+        "id": 1423719166889152514,
+        "name": "Felice Pagurotti 🐚",
+        "screen_name": "ibblastoise",
+        "location": "Firenze || Milano || Roma",
+        "followers_count": 618,
+        "friends_count": 342,
+        "protected": false
+    },
+    {
+        "id": 1023206688105684992,
+        "name": "Andrea58",
+        "screen_name": "andreaagnese58",
+        "location": "Condove, Piemonte",
+        "followers_count": 4,
+        "friends_count": 73,
+        "protected": false
+    }
+]

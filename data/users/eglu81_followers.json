@@ -1,0 +1,47 @@
+[
+    {
+        "id": 961998481673129984,
+        "name": "anna maria fioretti",
+        "screen_name": "canberra_anna",
+        "location": "Deakin, Canberra",
+        "followers_count": 89,
+        "friends_count": 232,
+        "protected": false
+    },
+    {
+        "id": 967359360,
+        "name": "Chris",
+        "screen_name": "Chriskuei_",
+        "location": "Beijing, People's Republic of China",
+        "followers_count": 14,
+        "friends_count": 113,
+        "protected": false
+    },
+    {
+        "id": 968932226342801409,
+        "name": "Wang shuai (Dylan)",
+        "screen_name": "Wangshu79517824",
+        "location": "Brisbane, Queensland",
+        "followers_count": 16,
+        "friends_count": 41,
+        "protected": false
+    },
+    {
+        "id": 1236622778175909888,
+        "name": "Jingtao Zhan",
+        "screen_name": "Jingtao_Zhan",
+        "location": "Beijing",
+        "followers_count": 98,
+        "friends_count": 166,
+        "protected": false
+    },
+    {
+        "id": 1159013283862589440,
+        "name": "Daniele Malitesta",
+        "screen_name": "dmalitesta",
+        "location": "Bari, Apulia, Italy",
+        "followers_count": 285,
+        "friends_count": 589,
+        "protected": false
+    }
+]

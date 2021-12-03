@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1463970071160573955,
+        "name": "susheel kumar",
+        "screen_name": "libinfopro",
+        "location": "Kerala, India",
+        "followers_count": 8,
+        "friends_count": 124,
+        "protected": false
+    },
+    {
+        "id": 1461555777072549891,
+        "name": "Christopher William",
+        "screen_name": "Christo12656926",
+        "location": "",
+        "followers_count": 1,
+        "friends_count": 203,
+        "protected": false
+    },
+    {
+        "id": 3307967027,
+        "name": "Gaël Dias",
+        "screen_name": "gael_dias",
+        "location": "",
+        "followers_count": 74,
+        "friends_count": 41,
+        "protected": false
+    },
+    {
+        "id": 751326416495517697,
+        "name": "Nandan Thakur",
+        "screen_name": "Nthakur20",
+        "location": "Darmstadt, Germany",
+        "followers_count": 758,
+        "friends_count": 968,
+        "protected": false
+    },
+    {
+        "id": 975726033839296512,
+        "name": "Amine Athmani",
+        "screen_name": "AthmaniAmine",
+        "location": "Troyes, France",
+        "followers_count": 447,
+        "friends_count": 551,
+        "protected": false
+    }
+]

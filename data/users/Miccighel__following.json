@@ -1,0 +1,47 @@
+[
+    {
+        "id": 860108790645084160,
+        "name": "Francesco",
+        "screen_name": "fra_bomba6",
+        "location": "Lignano Sabbiadoro, Friuli-Ven",
+        "followers_count": 10,
+        "friends_count": 62,
+        "protected": false
+    },
+    {
+        "id": 822006673267159040,
+        "name": "Outsider 🐝",
+        "screen_name": "Outsider289",
+        "location": "",
+        "followers_count": 125,
+        "friends_count": 117,
+        "protected": false
+    },
+    {
+        "id": 700064764,
+        "name": "ELISA",
+        "screen_name": "BiancolinoElisa",
+        "location": "Udine, Friuli-Venezia Giulia",
+        "followers_count": 603,
+        "friends_count": 864,
+        "protected": false
+    },
+    {
+        "id": 778856886,
+        "name": "Zuzana Pinkosova",
+        "screen_name": "ZuzanPink",
+        "location": "",
+        "followers_count": 262,
+        "friends_count": 601,
+        "protected": false
+    },
+    {
+        "id": 19659370,
+        "name": "Gianluca Demartini",
+        "screen_name": "eglu81",
+        "location": "Brisbane, Queensland",
+        "followers_count": 635,
+        "friends_count": 681,
+        "protected": false
+    }
+]

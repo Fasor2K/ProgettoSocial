@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1239642882,
+        "name": "Massimo Zancanaro",
+        "screen_name": "MaxZancanaro",
+        "location": "",
+        "followers_count": 211,
+        "friends_count": 197,
+        "protected": false
+    },
+    {
+        "id": 1425660262653120517,
+        "name": "ARC Training Centre for Information Resilience",
+        "screen_name": "CIRES_AU",
+        "location": "",
+        "followers_count": 37,
+        "friends_count": 100,
+        "protected": false
+    },
+    {
+        "id": 1020854242150453253,
+        "name": "Richard McCart",
+        "screen_name": "mccart_richard",
+        "location": "",
+        "followers_count": 52,
+        "friends_count": 83,
+        "protected": false
+    },
+    {
+        "id": 15750573,
+        "name": "Michael Soprano",
+        "screen_name": "Miccighel_",
+        "location": "Chiusaforte",
+        "followers_count": 330,
+        "friends_count": 213,
+        "protected": false
+    },
+    {
+        "id": 1187585868493537280,
+        "name": "Centre for Information Discovery & Data Analytics",
+        "screen_name": "rmit_cidda",
+        "location": "Melbourne, Australia",
+        "followers_count": 169,
+        "friends_count": 120,
+        "protected": false
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1328626427420422144,
+        "name": "Toloka",
+        "screen_name": "TolokaAI",
+        "location": "",
+        "followers_count": 384,
+        "friends_count": 35,
+        "protected": false
+    },
+    {
+        "id": 1400071702625857540,
+        "name": "Leibniz AI Lab",
+        "screen_name": "AiLeibniz",
+        "location": "Hannover",
+        "followers_count": 120,
+        "friends_count": 25,
+        "protected": false
+    },
+    {
+        "id": 524234866,
+        "name": "Mike Schaekermann",
+        "screen_name": "HardyShakerman",
+        "location": "Waterloo, Ontario",
+        "followers_count": 145,
+        "friends_count": 115,
+        "protected": false
+    },
+    {
+        "id": 3223120420,
+        "name": "Alex Williams",
+        "screen_name": "acwio",
+        "location": "Knoxville, Tennessee",
+        "followers_count": 933,
+        "friends_count": 730,
+        "protected": false
+    },
+    {
+        "id": 1430793928521904129,
+        "name": "uq-hcc",
+        "screen_name": "hcc_uq",
+        "location": "",
+        "followers_count": 35,
+        "friends_count": 41,
+        "protected": false
+    }
+]

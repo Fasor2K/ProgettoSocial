@@ -1,0 +1,47 @@
+[
+    {
+        "id": 248721193,
+        "name": "Danula Hettiachchi",
+        "screen_name": "danulaera",
+        "location": "Melbourne, Victoria",
+        "followers_count": 338,
+        "friends_count": 409,
+        "protected": false
+    },
+    {
+        "id": 1314222969984516096,
+        "name": "Rosie Jones",
+        "screen_name": "RosieJonesNLP",
+        "location": "",
+        "followers_count": 266,
+        "friends_count": 73,
+        "protected": false
+    },
+    {
+        "id": 735447938214678529,
+        "name": "Jeffrey Chan",
+        "screen_name": "DrJeffreyC",
+        "location": "Melbourne, Victoria",
+        "followers_count": 58,
+        "friends_count": 73,
+        "protected": false
+    },
+    {
+        "id": 2408311538,
+        "name": "IEEEPerCom",
+        "screen_name": "IEEEPerCom",
+        "location": "Pisa, Italy",
+        "followers_count": 474,
+        "friends_count": 53,
+        "protected": false
+    },
+    {
+        "id": 915167646240325632,
+        "name": "Nan Gao",
+        "screen_name": "NanGaoRMIT",
+        "location": "",
+        "followers_count": 12,
+        "friends_count": 86,
+        "protected": false
+    }
+]

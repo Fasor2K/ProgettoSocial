@@ -1,0 +1,47 @@
+[
+    {
+        "id": 249984650,
+        "name": "Marwah Alaofi",
+        "screen_name": "Marwah_k",
+        "location": "Medina - Melbourne",
+        "followers_count": 145,
+        "friends_count": 363,
+        "protected": false
+    },
+    {
+        "id": 59780150,
+        "name": "Kat Vylomova",
+        "screen_name": "ivrik",
+        "location": "Melbourne, Victoria",
+        "followers_count": 893,
+        "friends_count": 824,
+        "protected": false
+    },
+    {
+        "id": 15068044,
+        "name": "Daniel Beck",
+        "screen_name": "beck_daniel",
+        "location": "Melbourne, Victoria, Australia",
+        "followers_count": 767,
+        "friends_count": 362,
+        "protected": false
+    },
+    {
+        "id": 748176824,
+        "name": "Aleks",
+        "screen_name": "aleksbobic",
+        "location": "Geneva, Switzerland",
+        "followers_count": 89,
+        "friends_count": 649,
+        "protected": false
+    },
+    {
+        "id": 115421781,
+        "name": "Debasis Ganguly",
+        "screen_name": "debforit",
+        "location": "Glasgow, Scotland",
+        "followers_count": 190,
+        "friends_count": 114,
+        "protected": false
+    }
+]

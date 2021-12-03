@@ -1,0 +1,47 @@
+[
+    {
+        "id": 677013,
+        "name": "Nuno J. Nunes",
+        "screen_name": "njn",
+        "location": "Lisbon, Portugal",
+        "followers_count": 778,
+        "friends_count": 614,
+        "protected": false
+    },
+    {
+        "id": 31229962,
+        "name": "Enrico Blanzieri",
+        "screen_name": "EnricoBlanzieri",
+        "location": "Trento, Italy",
+        "followers_count": 34,
+        "friends_count": 42,
+        "protected": false
+    },
+    {
+        "id": 760030872733151232,
+        "name": "Maria Teresa Stella",
+        "screen_name": "MTStella",
+        "location": "Trentino-Alto Adige, Italia",
+        "followers_count": 221,
+        "friends_count": 768,
+        "protected": false
+    },
+    {
+        "id": 223439979,
+        "name": "U-Hopper",
+        "screen_name": "uhopper",
+        "location": "Trento, Italy",
+        "followers_count": 501,
+        "friends_count": 667,
+        "protected": false
+    },
+    {
+        "id": 915514148787822592,
+        "name": "Speck&Tech",
+        "screen_name": "speckandtech",
+        "location": "Trento, Trentino-South Tyrol",
+        "followers_count": 601,
+        "friends_count": 115,
+        "protected": false
+    }
+]

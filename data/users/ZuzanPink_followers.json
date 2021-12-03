@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1443389966978007048,
+        "name": "Zeeshan Ahmed",
+        "screen_name": "Zeeconn11",
+        "location": "West Haven CT",
+        "followers_count": 13,
+        "friends_count": 71,
+        "protected": false
+    },
+    {
+        "id": 11409082,
+        "name": "Antonio Lieto",
+        "screen_name": "antoniolieto",
+        "location": "(CE) Italy",
+        "followers_count": 966,
+        "friends_count": 864,
+        "protected": false
+    },
+    {
+        "id": 1443222435571113993,
+        "name": "XMRec @ #WSDM2022",
+        "screen_name": "XMarketRec",
+        "location": "",
+        "followers_count": 28,
+        "friends_count": 63,
+        "protected": false
+    },
+    {
+        "id": 1299808581433384960,
+        "name": "Dima El Zein",
+        "screen_name": "elzein_research",
+        "location": "Nice (06000)",
+        "followers_count": 96,
+        "friends_count": 313,
+        "protected": false
+    },
+    {
+        "id": 748176824,
+        "name": "Aleks",
+        "screen_name": "aleksbobic",
+        "location": "Geneva, Switzerland",
+        "followers_count": 89,
+        "friends_count": 649,
+        "protected": false
+    }
+]

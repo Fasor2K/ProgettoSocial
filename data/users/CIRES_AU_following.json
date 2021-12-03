@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1413679900028858368,
+        "name": "George Knott",
+        "screen_name": "crc_gk",
+        "location": "Sydney",
+        "followers_count": 115,
+        "friends_count": 511,
+        "protected": false
+    },
+    {
+        "id": 1136467769199910912,
+        "name": "lizzie2626",
+        "screen_name": "linhlt262626",
+        "location": "Brisbane, Queensland",
+        "followers_count": 15,
+        "friends_count": 63,
+        "protected": false
+    },
+    {
+        "id": 1443842410040086528,
+        "name": "Jasmin Cook",
+        "screen_name": "JasminC42298109",
+        "location": "",
+        "followers_count": 2,
+        "friends_count": 3,
+        "protected": false
+    },
+    {
+        "id": 1263591645489950727,
+        "name": "Dimity Miller",
+        "screen_name": "DimityMiller",
+        "location": "Brisbane, Queensland",
+        "followers_count": 124,
+        "friends_count": 105,
+        "protected": false
+    }
+]

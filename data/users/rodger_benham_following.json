@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1067977726118682625,
+        "name": "CS in Schools",
+        "screen_name": "csinschools",
+        "location": "Melbourne, Victoria",
+        "followers_count": 459,
+        "friends_count": 693,
+        "protected": false
+    },
+    {
+        "id": 2885659820,
+        "name": "Sumit Gulwani",
+        "screen_name": "SumitGulwani",
+        "location": "Redmond, WA, USA",
+        "followers_count": 869,
+        "friends_count": 97,
+        "protected": false
+    },
+    {
+        "id": 250212498,
+        "name": "Javier Parapar",
+        "screen_name": "jparapar",
+        "location": "A Coruña, Spain",
+        "followers_count": 332,
+        "friends_count": 121,
+        "protected": false
+    },
+    {
+        "id": 949744975855497216,
+        "name": "Parisa",
+        "screen_name": "Parisak18",
+        "location": "",
+        "followers_count": 47,
+        "friends_count": 117,
+        "protected": false
+    },
+    {
+        "id": 1017826393676185600,
+        "name": "Eugene Yang",
+        "screen_name": "EYangTW",
+        "location": "Washington, DC",
+        "followers_count": 53,
+        "friends_count": 159,
+        "protected": false
+    }
+]

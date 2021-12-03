@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1456403897036197899,
+        "name": "Neuro Information Science",
+        "screen_name": "NeuroIS",
+        "location": "",
+        "followers_count": 3,
+        "friends_count": 2,
+        "protected": false
+    },
+    {
+        "id": 164318151,
+        "name": "Hyojin Park",
+        "screen_name": "HyojinParkNeuro",
+        "location": "Birmingham, England",
+        "followers_count": 489,
+        "friends_count": 592,
+        "protected": false
+    },
+    {
+        "id": 840556477,
+        "name": "PsyToolkit 🇳🇱 🇩🇪 🇺🇸 🇬🇧 🇪🇺",
+        "screen_name": "psytoolkit",
+        "location": "United Kingdom",
+        "followers_count": 888,
+        "friends_count": 12,
+        "protected": false
+    },
+    {
+        "id": 1038739506671828997,
+        "name": "Strathclyde Psychology Society",
+        "screen_name": "StrathclydeS",
+        "location": "Glasgow, Scotland",
+        "followers_count": 220,
+        "friends_count": 138,
+        "protected": false
+    },
+    {
+        "id": 1104609567181340682,
+        "name": "Soo Young Rieh",
+        "screen_name": "riehsooyoung",
+        "location": "Mic",
+        "followers_count": 136,
+        "friends_count": 72,
+        "protected": false
+    }
+]

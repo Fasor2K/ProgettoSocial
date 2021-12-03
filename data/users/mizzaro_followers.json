@@ -1,0 +1,47 @@
+[
+    {
+        "id": 998681467696885761,
+        "name": "Oleg Zendel",
+        "screen_name": "OlegZendel",
+        "location": "Melbourne, Victoria",
+        "followers_count": 92,
+        "friends_count": 514,
+        "protected": false
+    },
+    {
+        "id": 1369078711,
+        "name": "Lynda Said Lhadj",
+        "screen_name": "LyndaSaidLhadj",
+        "location": "Algiers",
+        "followers_count": 341,
+        "friends_count": 768,
+        "protected": false
+    },
+    {
+        "id": 1400407060311851009,
+        "name": "acai2021",
+        "screen_name": "acai2021",
+        "location": "Berlin",
+        "followers_count": 183,
+        "friends_count": 53,
+        "protected": false
+    },
+    {
+        "id": 1265795638551212032,
+        "name": "Rodger Benham",
+        "screen_name": "rodger_benham",
+        "location": "",
+        "followers_count": 133,
+        "friends_count": 272,
+        "protected": false
+    },
+    {
+        "id": 740410382,
+        "name": "ἀν-ἀρχή",
+        "screen_name": "ColoursRiot",
+        "location": "",
+        "followers_count": 27,
+        "friends_count": 235,
+        "protected": false
+    }
+]

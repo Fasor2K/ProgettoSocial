@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1442170975760437251,
+        "name": "Matt",
+        "screen_name": "Ardalabob",
+        "location": "",
+        "followers_count": 3,
+        "friends_count": 41,
+        "protected": false
+    },
+    {
+        "id": 3036907250,
+        "name": "Kevin Roitero",
+        "screen_name": "KevinRoitero",
+        "location": "",
+        "followers_count": 121,
+        "friends_count": 289,
+        "protected": false
+    },
+    {
+        "id": 115439445,
+        "name": "Simonfriend 🅾️\\/®️ (🎩,🎩)",
+        "screen_name": "simoamico94",
+        "location": "Italy",
+        "followers_count": 204,
+        "friends_count": 66,
+        "protected": false
+    },
+    {
+        "id": 442682710,
+        "name": "Antonio Dal Cin",
+        "screen_name": "dalciosauro",
+        "location": "",
+        "followers_count": 171,
+        "friends_count": 69,
+        "protected": false
+    },
+    {
+        "id": 3010764297,
+        "name": "DeepInTheCrypt",
+        "screen_name": "mrdanieltaylor1",
+        "location": "",
+        "followers_count": 407,
+        "friends_count": 731,
+        "protected": false
+    }
+]

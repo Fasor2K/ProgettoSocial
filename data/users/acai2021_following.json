@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1351202858629263361,
+        "name": "ResponsibleAI@Umeå",
+        "screen_name": "ResponsibleAIU1",
+        "location": "",
+        "followers_count": 286,
+        "friends_count": 174,
+        "protected": false
+    },
+    {
+        "id": 42259133,
+        "name": "Rubén Martínez",
+        "screen_name": "runomics",
+        "location": "York, UK",
+        "followers_count": 192,
+        "friends_count": 518,
+        "protected": false
+    },
+    {
+        "id": 394074504,
+        "name": "giovanni sileno",
+        "screen_name": "gsileno",
+        "location": "Amsterdam, The Netherlands",
+        "followers_count": 248,
+        "friends_count": 860,
+        "protected": false
+    },
+    {
+        "id": 18932422,
+        "name": "mizzaro",
+        "screen_name": "mizzaro",
+        "location": "",
+        "followers_count": 162,
+        "friends_count": 358,
+        "protected": false
+    },
+    {
+        "id": 70600594,
+        "name": "Noman",
+        "screen_name": "muhammadnoman",
+        "location": "",
+        "followers_count": 61,
+        "friends_count": 330,
+        "protected": false
+    }
+]

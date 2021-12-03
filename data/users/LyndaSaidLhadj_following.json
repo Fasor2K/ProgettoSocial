@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1395450619608113156,
+        "name": "ACL Rolling Review Preprints",
+        "screen_name": "ARRPreprints",
+        "location": "",
+        "followers_count": 567,
+        "friends_count": 0,
+        "protected": false
+    },
+    {
+        "id": 27946346,
+        "name": "Xuanhui Wang",
+        "screen_name": "mr_courage",
+        "location": "Mountain View, CA",
+        "followers_count": 76,
+        "friends_count": 105,
+        "protected": false
+    },
+    {
+        "id": 1431952888847294469,
+        "name": "Hassane Ouali",
+        "screen_name": "HacenOuali5",
+        "location": "",
+        "followers_count": 164,
+        "friends_count": 63,
+        "protected": false
+    },
+    {
+        "id": 294599794,
+        "name": "Anjie Fang",
+        "screen_name": "anjiefang",
+        "location": "Seattle, WA",
+        "followers_count": 446,
+        "friends_count": 481,
+        "protected": false
+    },
+    {
+        "id": 26711278,
+        "name": "Joemon Jose",
+        "screen_name": "joemonj",
+        "location": "Glasgow, Scotland",
+        "followers_count": 566,
+        "friends_count": 242,
+        "protected": false
+    }
+]

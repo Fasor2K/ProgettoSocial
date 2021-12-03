@@ -1,0 +1,47 @@
+[
+    {
+        "id": 397459924,
+        "name": "Elena Tsallagova Jackson",
+        "screen_name": "ElenaTsallagova",
+        "location": "Berlin, Deutschland",
+        "followers_count": 775,
+        "friends_count": 676,
+        "protected": false
+    },
+    {
+        "id": 1618583532,
+        "name": "Anita Watson",
+        "screen_name": "AnitaWatsonSop",
+        "location": "London",
+        "followers_count": 852,
+        "friends_count": 928,
+        "protected": false
+    },
+    {
+        "id": 261482812,
+        "name": "Renée Rapier",
+        "screen_name": "ReneeRapier",
+        "location": "",
+        "followers_count": 501,
+        "friends_count": 380,
+        "protected": false
+    },
+    {
+        "id": 124540774,
+        "name": "Kelly Kaduce",
+        "screen_name": "KellyKaduce",
+        "location": "Houston, TX",
+        "followers_count": 694,
+        "friends_count": 164,
+        "protected": false
+    },
+    {
+        "id": 1320778945344770053,
+        "name": "slowed&sopranos",
+        "screen_name": "SlowedSopranos",
+        "location": "New York, NY",
+        "followers_count": 238,
+        "friends_count": 39,
+        "protected": false
+    }
+]

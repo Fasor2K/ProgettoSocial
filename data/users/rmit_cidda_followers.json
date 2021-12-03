@@ -1,0 +1,47 @@
+[
+    {
+        "id": 2838403462,
+        "name": "Sumit Sidana",
+        "screen_name": "sumitsidana17",
+        "location": "Berlin, Germany",
+        "followers_count": 48,
+        "friends_count": 427,
+        "protected": false
+    },
+    {
+        "id": 2289023460,
+        "name": "Abu Nowshed Chy",
+        "screen_name": "nowshed_bd",
+        "location": "Chittagong, Bangladesh",
+        "followers_count": 89,
+        "friends_count": 778,
+        "protected": false
+    },
+    {
+        "id": 632917747,
+        "name": "Hai Dong",
+        "screen_name": "Dr_Hai_Dong",
+        "location": "Melbourne, Victoria",
+        "followers_count": 14,
+        "friends_count": 10,
+        "protected": false
+    },
+    {
+        "id": 1440919645771337728,
+        "name": "Mst. Maksuda",
+        "screen_name": "MaksudaBilkis",
+        "location": "Dinajpur, Bangladesh.",
+        "followers_count": 12,
+        "friends_count": 154,
+        "protected": false
+    },
+    {
+        "id": 396403565,
+        "name": "MSG",
+        "screen_name": "bitcoinub",
+        "location": "Vaud, Suisse",
+        "followers_count": 72,
+        "friends_count": 524,
+        "protected": false
+    }
+]

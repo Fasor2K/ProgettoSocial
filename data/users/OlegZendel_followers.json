@@ -1,0 +1,47 @@
+[
+    {
+        "id": 82774113,
+        "name": "Bevan Koopman",
+        "screen_name": "bevan_koopman",
+        "location": "Brisbane, Australia.",
+        "followers_count": 365,
+        "friends_count": 379,
+        "protected": false
+    },
+    {
+        "id": 249984650,
+        "name": "Marwah Alaofi",
+        "screen_name": "Marwah_k",
+        "location": "Medina - Melbourne",
+        "followers_count": 145,
+        "friends_count": 363,
+        "protected": false
+    },
+    {
+        "id": 59780150,
+        "name": "Kat Vylomova",
+        "screen_name": "ivrik",
+        "location": "Melbourne, Victoria",
+        "followers_count": 893,
+        "friends_count": 824,
+        "protected": false
+    },
+    {
+        "id": 1438395670432555008,
+        "name": "DARS2022 Symposium",
+        "screen_name": "Dars2022_Sympo",
+        "location": "Montbéliard, France",
+        "followers_count": 67,
+        "friends_count": 209,
+        "protected": false
+    },
+    {
+        "id": 45412709,
+        "name": "Ameer Albahem",
+        "screen_name": "ameertawfik",
+        "location": "yemen",
+        "followers_count": 42,
+        "friends_count": 335,
+        "protected": false
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1423719166889152514,
+        "name": "Felice Pagurotti 🐚",
+        "screen_name": "ibblastoise",
+        "location": "Firenze || Milano || Roma",
+        "followers_count": 618,
+        "friends_count": 342,
+        "protected": false
+    },
+    {
+        "id": 737333978462572544,
+        "name": "Marco Liati",
+        "screen_name": "marcoliati",
+        "location": "Cassano Magnago, Lombardia",
+        "followers_count": 867,
+        "friends_count": 495,
+        "protected": false
+    },
+    {
+        "id": 262236415,
+        "name": "David",
+        "screen_name": "Barbe_z",
+        "location": "",
+        "followers_count": 236,
+        "friends_count": 203,
+        "protected": false
+    },
+    {
+        "id": 1333547632128626690,
+        "name": "smarTalks",
+        "screen_name": "smrtalks",
+        "location": "Milano, Lombardia",
+        "followers_count": 391,
+        "friends_count": 762,
+        "protected": false
+    },
+    {
+        "id": 1372510804277407746,
+        "name": "Tiziana",
+        "screen_name": "TemporalTiziana",
+        "location": "",
+        "followers_count": 26,
+        "friends_count": 116,
+        "protected": false
+    }
+]
