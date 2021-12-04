@@ -1,0 +1,177 @@
+[
+    {
+        "target_id": 113130846,
+        "target_screen_name": "ycombinator",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 4398626122,
+        "target_screen_name": "OpenAI",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 900040284616114176,
+        "target_screen_name": "naaclmeeting",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 2815077014,
+        "target_screen_name": "chrmanning",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 118263124,
+        "target_screen_name": "stanfordnlp",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 18850305,
+        "target_screen_name": "zacharylipton",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 740238495952736256,
+        "target_screen_name": "NVIDIAAI",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 1013971684624424960,
+        "target_screen_name": "iclr_conf",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 785618379201654784,
+        "target_screen_name": "fastdotai",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 911297187664949248,
+        "target_screen_name": "JeffDean",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 15808647,
+        "target_screen_name": "techreview",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 816653,
+        "target_screen_name": "TechCrunch",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 1059680847425527808,
+        "target_screen_name": "StanfordAILab",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 830523151528325120,
+        "target_screen_name": "aicampai",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 1163695768974196737,
+        "target_screen_name": "tribe_ai",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 21066583,
+        "target_screen_name": "CadeMetz",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 60642052,
+        "target_screen_name": "VentureBeat",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 778764142412984320,
+        "target_screen_name": "huggingface",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 4783690002,
+        "target_screen_name": "DeepMind",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 33838201,
+        "target_screen_name": "GoogleAI",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 1034844617261248512,
+        "target_screen_name": "MetaAI",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 254107028,
+        "target_screen_name": "TensorFlow",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 992153930095251456,
+        "target_screen_name": "DeepLearningAI_",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 301715055,
+        "target_screen_name": "AtxStartupWeek",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 748492600408145920,
+        "target_screen_name": "advaneo",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 716348353915686912,
+        "target_screen_name": "hackernoon",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 80422885,
+        "target_screen_name": "kaggle",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 788898706586275840,
+        "target_screen_name": "TDataScience",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 85648537,
+        "target_screen_name": "kdd_news",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 1271482878958940160,
+        "target_screen_name": "TheSequenceAI",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 387156826,
+        "target_screen_name": "icmlconf",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 1205209727950622720,
+        "target_screen_name": "vldb2021",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 2322434384,
+        "target_screen_name": "hcomp_conf",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 3018841323,
+        "target_screen_name": "odsc",
+        "source_id": 1328626427420422144
+    },
+    {
+        "target_id": 138840988,
+        "target_screen_name": "NeurIPSConf",
+        "source_id": 1328626427420422144
+    }
+]

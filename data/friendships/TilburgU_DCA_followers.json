@@ -1,5 +1,15 @@
 [
     {
+        "target_id": 741242773635014656,
+        "target_screen_name": "DShterionov",
+        "source_id": 797564060392914944
+    },
+    {
+        "target_id": 622784277,
+        "target_screen_name": "gchrupala",
+        "source_id": 797564060392914944
+    },
+    {
         "target_id": 2353050380,
         "target_screen_name": "rgalhama",
         "source_id": 797564060392914944
@@ -122,11 +132,6 @@
     {
         "target_id": 881494965297262592,
         "target_screen_name": "MA_M0usavi",
-        "source_id": 797564060392914944
-    },
-    {
-        "target_id": 1275912964915302403,
-        "target_screen_name": "miniapeur",
         "source_id": 797564060392914944
     },
     {
